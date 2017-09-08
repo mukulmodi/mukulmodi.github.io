@@ -22,7 +22,8 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+/** BACKGROUND COLOR BEYOND PHOTO */
+body { background: 0092df; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
